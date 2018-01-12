@@ -1,2 +1,3 @@
 This file is meant for the master branch only.
 Creating a change after branch 2 created to see the octopus do what I expect it to.
+Adding a line here to see what happens on local repo report from git status.
